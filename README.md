@@ -153,7 +153,7 @@ Frontend Form
 - Vercel Analytics
 - Vercel Speed Insights
 
-[Open Lighthouse Report ➔](https://enterprise-accredian.vercel.app/reports/lighthouse.html)
+[Open Lighthouse Report ➔](https://enterprise-accredian.vercel.app/reports/lighthouse_20260429T054824.html)
 
 ---
 
