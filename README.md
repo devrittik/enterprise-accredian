@@ -96,6 +96,45 @@ Frontend Form
 - success/error states
 - reusable form variants
 
+### 🗄️ Example Stored Lead Record
+
+```json
+{
+  "name": "Hackathon",
+  "email": "smithd@laca.org",
+  "phoneCode": "+91",
+  "phone": "8754132659",
+  "company": "GrowBit",
+  "domain": "General Management",
+  "teamSize": "11 - 50",
+  "deliveryMode": "Hybrid",
+  "location": "Baruipur",
+  "source": "detailed",
+  "createdAt": "2026-04-28T23:46:44.358Z"
+}
+```
+## 📧 Email Workflow Proof
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Admin Lead Notification**
+
+<img src="./public/readme/lead-email.png" width="100%" />
+
+</td>
+
+<td align="center" width="50%">
+
+**User Confirmation Email**
+
+<img src="./public/readme/confirmation-email.png" width="100%" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 # ⚡ Performance & SEO Enhancements
